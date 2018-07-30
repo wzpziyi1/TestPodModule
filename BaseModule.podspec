@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BaseModule'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'BaseModule'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-"一些基础的库类"
+"一些基础的库类以及其相关功能的修改"
                        DESC
 
   s.homepage         = 'https://github.com/wzpziyi1/TestPodModule'
